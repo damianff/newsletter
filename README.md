@@ -1,4 +1,4 @@
-# Newsletter subscription using MVC
+# Newsletter subscription 
 
 PHP script that will display a form to update a MySQL/MariaDB table.
 
